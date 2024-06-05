@@ -34,18 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "QueCas25"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;QueCas25&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/QueCas25/Seccion4-OperadoresEnPython.git",
-    "accountId": "1798ab3c-f339-4795-83ef-c1631fc62e65"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/QueCas25/Seccion4-OperadoresEnPython.git&quot;,
+    &quot;accountId&quot;: &quot;1798ab3c-f339-4795-83ef-c1631fc62e65&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -55,27 +55,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.EdadEntre20o30.executor": "Run",
-    "Python.Ejercicio-EdadDeUnaPersona.executor": "Run",
-    "Python.Ejercicio-NumeroMayor.executor": "Run",
-    "Python.Ejercicio-NumeroParOImpar.executor": "Run",
-    "Python.Ejercicio-OperadorOr.executor": "Run",
-    "Python.Ejercicio-TiendaDeLibros.executor": "Run",
-    "Python.EjercicioOperadorNot.executor": "Run",
-    "Python.EjercicioTriangulo.executor": "Run",
-    "Python.OperadoresAritmeticos (1).executor": "Run",
-    "Python.OperadoresDeAsignacion.executor": "Run",
-    "Python.OperadoresDeComparacion.executor": "Run",
-    "Python.OperadoresLogicos.executor": "Run",
-    "Python.SintaxisSimplificadaOperadoresLogicos.executor": "Run",
-    "Python.ValorDentroDelRango.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.EdadEntre20o30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio-EdadDeUnaPersona.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio-NumeroMayor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio-NumeroParOImpar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio-OperadorOr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio-TiendaDeLibros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjercicioOperadorNot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjercicioTriangulo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OperadoresAritmeticos (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.OperadoresDeAsignacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OperadoresDeComparacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OperadoresLogicos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SintaxisSimplificadaOperadoresLogicos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ValorDentroDelRango.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Ejercicio-TiendaDeLibros">
     <configuration name="Ejercicio-EdadEntre20o30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Seccion4-OperadoresEnPython" />
